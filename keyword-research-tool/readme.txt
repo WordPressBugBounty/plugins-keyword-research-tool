@@ -3,8 +3,8 @@ Contributors: SEOreviewtools
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V6Z2QZHGBUC7Q&source=url
 Tags: keyword tool, keywords, keyword research, seo, content
 Requires at least: 3.0.1
-Tested up to:  6.4
-Stable tag: 1.8.2
+Tested up to: 6.7.2 
+Stable tag: 1.8.3
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 

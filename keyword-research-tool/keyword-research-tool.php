@@ -3,7 +3,7 @@
 Plugin Name: Keyword Research Tool
 Plugin URI: 
 Description: <strong>Keyword Research</strong> made simple for Wordpress. Enter your <strong>keyword</strong> and quickly discover keyword opportunities related to your topic.
-Version: 1.8.2
+Version: 1.8.3
 Author: Jasja ter horst - SEO Review Tools
 Author URI: https://www.seoreviewtools.com
 Author Email: jasja.ter.horst@gmail.com
